@@ -2,4 +2,4 @@ scikit-surprise==1.0.6
 pandas==0.20.3
 numpy==1.14.2
 keras==2.0.6
-pip==1.6.0
+pip==19.2
